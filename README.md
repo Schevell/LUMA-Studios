@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img src="" alt="LUMA Studios" width="720" style="border-radius:12px; margin-bottom:24px;"/>
+  <img src="https://www.dropbox.com/scl/fi/53ixpbqqwg11bt8v2flhc/IMG_1469.jpeg?rlkey=15yv97qm2nio278pq1jfuazmo&st=xyiog9vo&dl=0" alt="LUMA Studios" width="720" style="border-radius:12px; margin-bottom:24px;"/>
   
   <h1 style="margin: 0; font-size: 3.2em; letter-spacing: -1px;">
     LUMA Studios
