@@ -46,6 +46,13 @@
           3D Endless runner
         </div>
       </td>
+      <div style="font-size: 1.6em; font-weight: bold; margin-bottom: 12px; color: #88aaff;">
+          Navo Client
+        </div>
+        <div style="color: #cccccc; font-size: 1.1em;">
+          Secret Client
+        </div>
+      </td>
     </tr>
   </table>
 
