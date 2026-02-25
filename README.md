@@ -47,7 +47,6 @@
           3D endless runner
         </div>
       </td>      
-      <td align="center" style="background: #111122; border-radius: 12px; padding: 24px; min-width: 240px; box-shadow: 0 8px 30px rgba(0,0,0,0.5); transition: transform 0.2s;">
       <div style="font-size: 1.6em; font-weight: bold; margin-bottom: 12px; color: #88aaff;">
           Navo Client
         </div>
