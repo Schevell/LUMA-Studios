@@ -71,6 +71,6 @@
 
 <div align="center" style="margin: 60px 0 40px 0;">
   <p style="color: #8888aa; font-size: 0.95em;">
-    Small team • Big atmosphere • Handcrafted games
+     • Storytelling Games • Small team
   </p>
 </div>
